@@ -161,6 +161,9 @@ cython_debug/
 washington dc_real estate market_houses for sale_2024_light.json
 data/washington dc_real estate market_houses for sale_2024_light.json
 *.pkl
+data/*.json
+
+
 
 
 # PyCharm
