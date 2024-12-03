@@ -162,6 +162,11 @@ washington dc_real estate market_houses for sale_2024_light.json
 data/washington dc_real estate market_houses for sale_2024_light.json
 *.pkl
 data/*.json
+data/washington dc_real estate market_houses for sale_2024.json
+data/washington dc_real estate market_houses for sale_2024_light.json
+data/cleaned_real_estate_data.csv
+data/heavy_cleaned_real_estate_data.csv
+
 
 
 
