@@ -39,7 +39,6 @@ In this analysis, we performed a parallel analysis using two real estate dataset
 ### Key Analyses Conducted:
 - **Price Trends**: Analyzed price per square foot across different neighborhoods and property types to identify the most expensive and affordable areas in Washington, D.C.
 - **Property Characteristics**: Studied how factors like square footage, year of construction, and amenities affect listing prices.
-- **School Quality Impact**: Correlated listing prices with GreatSchools ratings to understand how nearby schools impact property values.
 - **Neighborhood Comparisons**: Mapped listings to visualize the spatial distribution of available inventory and identify hotspots for property investments.
 
 ### Machine Learning Models:
